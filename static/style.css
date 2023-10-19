@@ -1,3 +1,8 @@
+@font-face {
+    font-family: Bahnschrift;
+    src: url(static/Bahnschrift.ttf);
+}
+
 body{
     font-family: "Bahnschrift";
     padding: 0 200px;
@@ -98,6 +103,6 @@ span.nowrap {
 @media (max-width: 400px){
     body{
         padding: 0 10%;
-        font-size: 90%;
+        font-size: 110%;
     }
 }
